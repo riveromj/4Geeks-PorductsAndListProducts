@@ -1,13 +1,33 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-/* 
+input{
+    margin-bottom: 4%;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+label{
+    margin-right: 3%;
+}
 
-*/
+.btn{
+    width: 100%;
+}
+
+.form-products{
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.list-products{
+    margin-top: 5%;
+}
+
+.product{
+    width: 40%;
+    margin-right: 5%;
+}
+
+.btn-danger, .btn-secondary{
+    width: 50%;
+}
+
